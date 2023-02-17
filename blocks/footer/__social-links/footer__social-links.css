@@ -1,0 +1,13 @@
+.footer__social-links {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+  text-decoration: none;
+  opacity: 1;
+}
+
+.footer__social-links:hover {
+  opacity: .5;
+  transition: linear;
+}
