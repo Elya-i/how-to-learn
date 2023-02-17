@@ -4,7 +4,7 @@
 @import url(../table/__text/table__text.css);
 
 .table {
-  margin: 0 auto 100px auto;
+  margin: 0 auto 0 auto;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
